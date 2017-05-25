@@ -2,7 +2,7 @@ package com;
 
 public class t1 {
 
-	String name="abc";
+	final String name="abc";
 	
-	String x1="aa";
+	final String x1="aa";
 }
